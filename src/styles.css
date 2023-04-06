@@ -1,0 +1,17 @@
+body {
+  background: #f8e8a6;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+a {
+  color: #4d7008;
+}
+
+footer a {
+  margin: 0 10px;
+}
